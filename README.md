@@ -1,2 +1,2 @@
 # Portfolio-Page-Personal-
-My personal
+My personal portfolio page
